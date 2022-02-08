@@ -22,6 +22,5 @@ Binary trees organize their elements in a specific order. Normaly the smaller el
 This way of organizing data grants that all data will be in order from the moment the elements are added to the tree.  
 The programmer can add elements, get specific elements and show all of the content in order.
   
-  
-  
+### Future work
 ***This project is not finnished yet. There are a lot of useful operations that haven't been added yet.***
