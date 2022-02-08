@@ -21,3 +21,5 @@ The programmer can define a size to the stack that will be full when it reaches 
 Binary trees organize their elements in a specific order. Normaly the smaller elements are on the left branches and the bigger ones are on the right branches.  
 This way of organizing data grants that all data will be in order from the moment the elements are added to the tree.  
 The programmer can add elements, get specific elements and show all of the content in order.
+
+**This project is not finnished yet. There are a lot of useful operations that haven't been added yet.**
